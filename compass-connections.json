@@ -1,0 +1,56 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "3902a548-73b1-4c6b-9971-823ba35e0091",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1713379008304"
+        }
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      },
+      "savedConnectionType": "recent"
+    },
+    {
+      "id": "57ff042a-41a1-4e8e-8d4a-9403ebe69bdd",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1713458866927"
+        }
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      },
+      "savedConnectionType": "recent"
+    },
+    {
+      "id": "a1a0738f-c304-4ec0-89f0-f72b7987424a",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1748441602148"
+        }
+      },
+      "favorite": {
+        "name": "Likhith"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
